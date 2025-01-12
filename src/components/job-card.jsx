@@ -65,7 +65,7 @@ const  JobCard = ({
         <CardFooter className='flex gap-2'>
             <Link to={`/job/${job.id}`} className='flex-1'>
             <Button variant='secondary' className='w-full'>
-                More Details
+                More Detailsss
             </Button>
             </Link>
             {!isMyJob && (
